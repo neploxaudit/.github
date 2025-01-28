@@ -6,7 +6,7 @@ Follow us on our journey:
 > - Website:&emsp;&ensp; [neplox.security](https://neplox.security)
 > - X:&emsp;&emsp;&emsp;&emsp;&emsp;[x.com/neploxaudit](https://x.com/neploxaudit)
 > - Telegram:&emsp; [t.me/neploxaudit](https://t.me/neploxaudit)
-> - Immunefi:&emsp; [immunefi.com/profile/neplox](https://immunefi.com/profile/neplox)
+> - Immunefi:&emsp; [immunefi.com/neploxaudit](https://immunefi.com/profile/neploxaudit)
 
 
 ##  Who are we?
@@ -21,7 +21,7 @@ From international CTF winners to hardened reverse engineers and bug bounty hunt
 [![ Website  ](https://img.shields.io/badge/Neplox%2eSecurity-informational?style=for-the-badge&color=ef5902)](https://neplox.security)&emsp;
 [![ X        ](https://img.shields.io/badge/X-informational?style=for-the-badge&color=ef5902)](https://x.com/neploxaudit)&emsp;
 [![ Telegram ](https://img.shields.io/badge/Telegram-informational?style=for-the-badge&color=ef5902)](https://t.me/neploxaudit)&emsp;
-[![ Immunefi ](https://img.shields.io/badge/Immunefi-informational?style=for-the-badge&color=ef5902)](https://immunefi.com/profile/neplox)&emsp;
+[![ Immunefi ](https://img.shields.io/badge/Immunefi-informational?style=for-the-badge&color=ef5902)](https://immunefi.com/profile/neploxaudit)&emsp;
 [![ Github   ](https://img.shields.io/badge/Github-informational?style=for-the-badge&color=ef5902)](https://github.com/neploxaudit)
 
 </div>
